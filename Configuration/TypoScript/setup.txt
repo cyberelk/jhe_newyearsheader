@@ -1,0 +1,32 @@
+plugin.tx_jhenewyearsheader {
+	view {
+		templateRootPath = {$plugin.tx_jhenewyearsheader.view.templateRootPath}
+		partialRootPath = {$plugin.tx_jhenewyearsheader.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_jhenewyearsheader.view.layoutRootPath}
+	}
+	persistence {
+		storagePid = {$plugin.tx_jhenewyearsheader.persistence.storagePid}
+	}
+	features {
+		# uncomment the following line to enable the new Property Mapper.
+		# rewrittenPropertyMapper = 1
+	}
+}
+
+plugin.tx_jhenewyearsheader.settings.greetings = TEXT
+plugin.tx_jhenewyearsheader.settings.greetings.value (
+	de|Frohes neues Jahr!,
+	en|Happy new year!,
+	fr|Une bonne année!,
+	nl|Zalig nieuwjaar!,
+	fi|Hyvää uutta vuotta!,
+	it|Felice anno nuovo!,
+	pl|Szczęśliwego Nowego Roku!,
+	sp|¡Feliz año nuevo!,
+	tr|Mutlu Yillar!,
+	se|Gott nytt år!,
+)
+
+plugin.tx_jhenewyearsheader._CSS_DEFAULT_STYLE (
+
+)

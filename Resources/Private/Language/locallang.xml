@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'jhe_newyearsheader'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">News Years Header</label>
+			<label index="pi1_plus_wiz_description">Displays a special header image with new years greetings an firework</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="pi1_title">Neujahrs-Header</label>
+			<label index="pi1_plus_wiz_description">Neujahrsgruß mit Feuerwerk</label>
+		</languageKey>
+	</data>
+</T3locallang>

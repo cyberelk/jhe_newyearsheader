@@ -1,0 +1,14 @@
+plugin.tx_jhenewyearsheader {
+	view {
+		# cat=plugin.tx_jhenewyearsheader/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:jhe_newyearsheader/Resources/Private/Templates/
+		# cat=plugin.tx_jhenewyearsheader/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:jhe_newyearsheader/Resources/Private/Partials/
+		# cat=plugin.tx_jhenewyearsheader/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:jhe_newyearsheader/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_jhenewyearsheader//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}

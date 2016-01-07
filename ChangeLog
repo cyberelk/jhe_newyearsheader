@@ -1,0 +1,22 @@
+2015-12-28 Jari-Hermann Ernst, M.A.  <jari-hermann.ernst@bad-gmbh.de> - V 0.2.0
+
+	* New version with extbase/fluid for T3 4.5 and 6.2
+
+2014-12-29 Jari-Hermann Ernst, M.A.  <jari-hermann.ernst@bad-gmbh.de> - V 0.1.2
+
+    * added new background image
+    * changed the size of the plugin
+    * changed state to stable
+
+2011-12-29 Jari-Hermann Ernst, M.A.  <jari-hermann.ernst@bad-gmbh.de> - V 0.1.1
+
+	* some code review
+	* added firework.js license readme
+
+2011-12-27 Jari-Hermann Ernst, M.A.  <jari-hermann.ernst@bad-gmbh.de> - V 0.1.0
+
+	* first working version
+
+2011-12-27 Jari-Hermann Ernst, M.A.  <jari-hermann.ernst@bad-gmbh.de>
+
+	* initial code generated with kickstarter

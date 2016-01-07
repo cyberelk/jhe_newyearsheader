@@ -1,0 +1,83 @@
+/* 
+    Document   : newyearsheader.css
+    Created on : 27.12.2011, 12:45:28
+    Author     : jari-hermann.ernst
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#jhe_newyearsheader {
+	position: relative;
+}
+
+#jhe_newyearsheader div {
+	color: #FC6;
+	font-size: 48px;
+	font-weight: bold;
+	text-transform: capitalize;
+	font-family: 'Open Sans', sans-serif;
+	position: relative;
+	}
+#jhe_newyearsheader #sensitive_area {
+	height: 223px;
+	width: 663px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 100;
+}
+
+#jhe_newyearsheader .greeting {
+	position:absolute;
+	display: none;
+}
+
+#jhe_newyearsheader #de {
+	top: 24px;
+	left: 36px;
+}
+#jhe_newyearsheader #en {
+	top: 93px;
+	left: 210px;
+}
+#jhe_newyearsheader #fr {
+	top: 22px;
+	left: 193px;
+}
+#jhe_newyearsheader #nl {
+	top: 153px;
+	left: 274px;
+}
+#jhe_newyearsheader #fi {
+	top: 67px;
+	left: 191px;
+}
+#jhe_newyearsheader #it {
+	top: 128px;
+	left: 17px;
+}
+#jhe_newyearsheader #pl {
+	top: 155px;
+	left: 10px;
+}
+#jhe_newyearsheader #sp {
+	top: 97px;
+	left: 67px;
+}
+#jhe_newyearsheader #tr {
+	top: 8px;
+	left: 373px;
+}
+#jhe_newyearsheader #se {
+	top: 81px;
+	left: 84px;
+}
+#jhe_newyearsheader #at {
+	top: 81px;
+	left: 84px;
+}
